@@ -5,13 +5,20 @@ TamannaAfroz2666/TamannaAfroz2666 is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TamannaAfroz2666&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamannaAfroz2666&show_icons=true&hide_border=true&hide=less,php,scss,blade&layout=compact"/>
-</p>
 
-#### Contribution Graph
-[![Tamanna Afroz github activity graph](https://activity-graph.herokuapp.com/graph?username=TamannaAfroz2666&theme=react-dark)](https://activity-graph.herokuapp.com/graph?username=TamannaAfroz2666&theme=react-dark)
+<div align="center">
+<a href="https://github.com/TamannaAfroz2666">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=TamannaAfroz2666&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Tamanna Afroz GitHub Stats" />
+ <a href="https://github.com/TamannaAfroz2666">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamannaAfroz2666&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+</div>
+</p>
+</br>
+</br>
+
+
+
 
 # Profile Visitor
 
